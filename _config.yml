@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Gabriele"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "gab.jpg"
+  bio              : "PhD student in Explainable AI for Healthcare at the University of Lugano (USI) \n Graduated at the University of Cambridge"
   location         : "Lugano, Switzerland"
   employer         :
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjV79734-uBAxWIxQIHHWCZBFYQFnoECBkQAQ&url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3DIUOnRFoAAAAJ%26hl%3Den&usg=AOvVaw1Nd3e8Ym-TWB3TLHsAcj-D&opi=89978449"
   email            : "dominici.gab@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Gabriele-Dominici"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/gabriele-dominici-677bb6161/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "g_dominici"
   vine             :
   weibo            :
   xing             :
