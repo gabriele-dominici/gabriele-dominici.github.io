@@ -3,7 +3,7 @@ title: "SHARCS - Shared Concept Space for Explainable Multimodal Learning"
 collection: publications
 permalink: /publication/2023_Master_Thesis
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-06-02
 venue: 'ICLR'
 paperurl: 'https://arxiv.org/abs/2307.00316?context=cs.AI'
 citation: 'Gabriele Dominici, Pietro Barbiero, Lucie Charlotte Magister, Pietro Liò, & Nikola Simidjievski. (2023). SHARCS: Shared Concept Space for Explainable Multimodal Learning.'

@@ -4,7 +4,7 @@ collection: talks
 type: "Podcast"
 permalink: /talks/podcast
 venue: "YouTube - Gabriele Dominici"
-date: Ongoing
+date: 2023-01-01
 location: "YouTube - Gabriele Dominici"
 ---
 
