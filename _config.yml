@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Gabriele"
   avatar           : "profile.png"
-  bio              : """
+  bio              : "<strong>PhD student in Explainable AI</strong> for Healthcare at the University of Lugano (<strong>USI</strong>) <br> 
+                      Graduated at the <strong>University of Cambridge</strong> <br> 
+                      Ex <strong>MIT Research Intern</strong>"
   location         : "Lugano, Switzerland"
   employer         :
   pubmed           :
