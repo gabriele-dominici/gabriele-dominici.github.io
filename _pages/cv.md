@@ -37,6 +37,9 @@ Work experience
   
 Projects
 ======
+* [Climbing the Ladder of Interpretability with Counterfactual Concept Bottleneck Models](https://github.com/gabriele-dominici/Counterfactual-CBM)
+  * First solution to integrate counterfactual in Concept-BasedModels.It does not need post-hoc methods, as it is trained end-to-end to predict, explain and generate counterfactuals.
+  * It outperforms all the baselines in generating counterfactuals that are more accurate and feasible.
 * [SHARCS: SHARed Concept Space for Explainable Multimodal Learning - MPhil Project](https://github.com/gabriele-dominici/SHARCS)
   * First solution to use concepts to explain multimodal models. It is able to explain one modality using the other and retrieve a missing modality.
   * It performs as well as non-interpretable baselines, providing explanations and substantially better performance on missing modality situations (an increase of up to $\sim$84% accuracy)
